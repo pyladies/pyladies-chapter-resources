@@ -27,7 +27,7 @@ To add a resource to the repository:
 2. Create a directory that will house your resources in the topic directory. Your resource directory should include: 
     - Slides
     - Any articulating resources (e.g. white papers if needed)
-    - If your resource is a clas or workshop, include the classroom plan.
+    - If your resource is a class or workshop, include the classroom plan.
     - Create a README that includes the date you uploaded the resources, your PyLadies chapter information, and author information. Author information should be used by all PyLadies who go on to use this resource in their programming, as outlined in the Creative Commons License usage (see above on "How to use"). If you are open to people contacting you with questions, please specify in the author information.
 3. Make a PR with all the information above titling the PR "Adding <Resource Name> to <Topic Directory>"
 4. The PyLadies global team will review and merge in!
