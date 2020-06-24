@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#2D2D2D" />
+
+    <title>Pyladies Workshop</title>
+
+    <link rel="stylesheet" href="{{url_for('static', filename='index.css')}}" />
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+</head>
+
+<body>
+    <div id="container">
+        <img id="logo" src="{{url_for('static', filename='plg.png')}}"/>
+        <div id="hello">
+            Hello, {{username}}! 🎉 
+        </div>
+        {% if username != "World" %}
+        <div id="success">
+            Congratulations! You have solved our docker puzzle!
+        </div>
+        {% else %}
+        <div id="no-env-var">
+            Uh oh - your name couldn't be found. Did you try to type: localhost:5000/{NAME}?
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
