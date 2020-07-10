@@ -32,11 +32,13 @@ You are welcome to use concepts provided in the slides and workshop material as 
 
 - [Pdf Slides](workshop-slides.pdf)
 - [Workshop walkthrough](workshop-walkthrough.md)
+- [Workshop outro](workshop-outro.md)
 
 - [Slides and material from original workshop](https://github.com/emilywoods/pyladies-docker-workshop)
 - [Branch with completed workshop](https://github.com/emilywoods/pyladies-docker-workshop/tree/completed-dockerfile)
 
 The talk is approximately 30 mins in length and then workshop with Q&A can be around one hour.
+The slides cover more material, feel free to use what you think makes sense for your setup.
 
 The recording of the Hamburg workshop iteration is on the Pyladies Youtube (link will follow).
 
