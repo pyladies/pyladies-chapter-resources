@@ -31,7 +31,7 @@ Docker cannot be installed on older Windows home editions. And for following the
 You are welcome to use concepts provided in the slides and workshop material as you see fit!
 
 - [Pdf Slides](workshop-slides.pdf)
-- [Workshop walkthrough](workshop-walkthrough.md)
+- [Workshop fallow along](workshop-follow-along.md)
 - [Workshop outro](workshop-outro.md)
 
 - [Slides and material from original workshop](https://github.com/emilywoods/pyladies-docker-workshop)
