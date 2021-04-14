@@ -8,3 +8,4 @@ Looking for beginner Python readings? The below have been recommended by our com
 | Hitchhikers Guide to Python | Kenneth Reitz | https://docs.python-guide.org/  | English | Python 101, web development, devops | Free | 
 | The Quick Python Book | Naomi Ceder | https://www.manning.com/books/the-quick-python-book-third-edition | English | Python 101 | $ 32 USD |
 | Python Basics | Real Python | https://static.realpython.com/python-basics-sample-chapters.pdf | English | Python 101 | Free |
+| Quiero Aprender Python | Argentina Python  | https://argentinaenpython.com/quiero-aprender-python/ | Spanish | Python 101  | Free (Lista de recursos gratuitos) |
